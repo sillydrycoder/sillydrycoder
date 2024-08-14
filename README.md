@@ -1,6 +1,4 @@
-![Header](./github-header-image.png)
+<div align="center"><img width = 40%" src="./Muhammad Ali.gif"></div>
 
+---
 
-<div align="center">
-	<img width = "657px" src="./github-header-image.png">
-</div>
