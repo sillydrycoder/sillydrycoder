@@ -1,4 +1,6 @@
-![github-header-image](https://github.com/user-attachments/assets/a5c4b7e0-0853-4490-8cb0-9dec799a303d)
+	![Header](./github-header-image.png)
+
+
 <div align="center">
-	<img width = "33%" src="https://i.imgur.com/8BgVXcY.png">
+	<img width = "657px" src="./github-header-image.png">
 </div>
