@@ -3,22 +3,27 @@
 </div>
 
 ---
+**Hello there**,
 
-# Welcome
+I'm a Full-Stack Developer by day and a Tech enthusiast by night.
 
-I build, automate, and learn.
+- **Current Role**  
+  TechStack Alchemist
 
-- **Student at MNSUAM Multan**  
-  Focused on software engineering with a side passion for data science and AI.
+- **Community Involvement**  
+  Professional Introvert (social skills are still in beta)
+  
+- **Daily Toolkit**  
+  `.py` | `.dart` | `.html` | `.css` | `.js` | `.ts` | `.json`
+  
+- **Active Where?**  
+  Deep in my Thoughts (or possibly binge-watching tutorials)
 
-- **Current Projects**  
-  Web automation | E-learning platform | Software development
+- **Projects**  
+  Check out my repos! 
 
-- **Always Exploring**  
-  New technologies, better solutions, and continuous growth.
+- **Topics to Discuss**  
+  Logics | DSA | AI | Development | Tech   
+  (Or share your favorite cat meme, I’m all ears)
 
-**Let's connect:** [muhammad_ali@workmail.com]
-
-                                         
-
-
+Feel free to reach out! (Or send a pigeon, I’m flexible)
