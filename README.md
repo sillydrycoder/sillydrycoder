@@ -1,5 +1,5 @@
 <div align="center">
-  <img width = 100%" src="./Muhammad Ali.gif">
+  <img width = 100%" src="./signature.png">
 </div>
 
 ---
